@@ -25,7 +25,7 @@ export class BatchComponent {
   constructor(private batchService: BatchService){}
 
   ngOnInit() {
-    this.batchService.getBatch(2).subscribe(data=>{
+    this.batchService.getBatch(14).subscribe(data=>{
       //console.log(data);
       this.singleBatch = data[0];
       console.log("Single Batch" + this.singleBatch)
