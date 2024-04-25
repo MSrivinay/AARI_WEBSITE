@@ -2,7 +2,7 @@
 
 .outer_curve{
     display: flex;
-    background-image: url(../../Images/staff\ bg.svg);
+    background-image: url(../Images/staff\ bg.svg);
     background-size: cover;
     /* height: 900px;
     width: 1440px;    */
@@ -116,7 +116,7 @@
     border-radius: 50%;
     background-color: white;
     margin-top: 1vw;
-    background-image: url(../../Images/human_face.jpeg);
+    background-image: url(../Images/human_face.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -137,7 +137,7 @@
     border-radius: 50%;
     background-color: white;
     margin-top: 1vw;
-    background-image: url(../../Images/female.jpeg);
+    background-image: url(../Images/female.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -148,7 +148,7 @@
     border-radius: 50%;
     background-color: white;
     margin-top: 1vw;
-    background-image: url(../../Images/men.jpeg);
+    background-image: url(../Images/men.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
